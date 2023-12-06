@@ -1,8 +1,8 @@
 
-# Sharper Insights for the Future of Medical Imaging: Super-Resolution Techniques in MRI Video Analysis
+# Enhancing Welsh MRI Speech Motion Videos: A Super-Resolution Approach Using ESRGAN and Real-ESRGAN
 
 ## Overview
-Welcome to my dissertation project repository, where I explore the application of various super-resolution techniques in the analysis of MRI video data. This research aims to enhance the clarity and quality of MRI imaging, offering potential advancements in medical diagnostics and treatment planning.
+Welcome to my dissertation project repository, where I explore the application of various super-resolution techniques in the analysis of MRI video data. This research aims to enhance the clarity and quality of MRI imaging, offering potential advancements in speech articulation and linguistics.
 
 ## Objectives
 - To investigate and implement state-of-the-art super-resolution algorithms tailored for MRI data.
